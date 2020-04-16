@@ -94,7 +94,7 @@ The information about areas size of boroughs is given [here](https://en.wikipedi
 
 ### Analysing crime rate per year in New York
 <p align="center">
-<img src="./output/s1.png" width="auto" height ="auto"></img>
+<img src="./output/s1.png" width="400" height ="400"></img>
 </p>
 <br>
 
@@ -105,5 +105,5 @@ Note - The blue dots represent the crime number and the line represents the crim
 
 ### Analysing crime rate across boroughs in New York
 <p align="center">
-<img src="./output/s2.png" width="auto" height ="auto"></img>
+<img src="./output/s2.png" width="400" height ="400"></img>
 </p><br>
