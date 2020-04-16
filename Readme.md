@@ -116,6 +116,10 @@ Note - The blue dots represent the crime number and the line represents the crim
 
 Number of offences was a problem in earlier part. Hence, if we spread same number of offences over larger area, there will be less imbalance in the data. Lets plot Borough Areas.
 
+<p align="center">
+<a href="/output/s3.png" width=400 height=400></a>
+</p><br>
+
 The above plot clearly shows that <b>Queens has area size almost 5 times greater than Manhattan</b>  
 Hence, we use crime density instead of number of offences.
 
