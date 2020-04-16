@@ -126,3 +126,6 @@ Number of offences was a problem in earlier part. Hence, if we spread same numbe
 
 The above plot clearly shows that <b>Queens has area size almost 5 times greater than Manhattan</b>  
 Hence, we use crime density instead of number of offences.
+
+
+Work in Progress..
