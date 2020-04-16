@@ -94,7 +94,7 @@ The information about areas size of boroughs is given [here](https://en.wikipedi
 
 ### Analysing crime rate per year in New York
 <p align="center">
-<a href="./output/s1.png" width="400" height ="400"></a>
+<a href="/output/s1.png" width=400 height=400></a>
 </p>
 <br>
 
@@ -105,5 +105,20 @@ Note - The blue dots represent the crime number and the line represents the crim
 
 ### Analysing crime rate across boroughs in New York
 <p align="center">
-<a href="./output/s2.png" width="400" height ="400"></a>
+<a href="/output/s2.png" width=400 height=400></a>
 </p><br>
+
+<b>Inference</b> - 
+1. The crime rate drops steadily in all the boroughs with fastest drop in <b><i>Brooklyn</i></b> and slowest drop in <b><i>Staten Island</i></b>
+2. Crime rate depending on <b><i>number of offence</i></b> isn't the best indicator to compare crimes in Boroughs as the boroughs differ significantly in the areas.
+
+### Analysing crime density per borough across years in New York
+
+Number of offences was a problem in earlier part. Hence, if we spread same number of offences over larger area, there will be less imbalance in the data. Lets plot Borough Areas.
+
+The above plot clearly shows that <b>Queens has area size almost 5 times greater than Manhattan</b>  
+Hence, we use crime density instead of number of offences.
+
+
+
+
